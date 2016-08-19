@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine
 MAINTAINER smounives <smounives@outlook.com>
 
 ENV SS_VER master
