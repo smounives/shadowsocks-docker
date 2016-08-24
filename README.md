@@ -1,4 +1,4 @@
-# shadowsocks-docker
+shadowsocks-docker
 ==================
 
 This Dockerfile builds an image with the Python implementation of [shadowsocks](https://github.com/shadowsocks/shadowsocks/tree/master). Based on Alpine image(A lightweight Linux ).
